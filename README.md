@@ -16,7 +16,7 @@ Overall, the development, filming, set design, and stage design are interconnect
 #
 ### Related Links
 
-[Movies Product](https://github.com/sourceduty/Movie_Product)
+[Movie Product](https://github.com/sourceduty/Movie_Product)
 <br>
 [Movies](https://github.com/sourceduty/Movies)
 <br>
