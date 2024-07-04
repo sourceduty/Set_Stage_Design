@@ -365,6 +365,22 @@ Paradise City’s governance is based on a council of leaders chosen for their w
 <br>
 </details>
 
+<details><summary>Grave Driller</summary>
+<br>
+
+![Grave Drill](https://github.com/sourceduty/Set_Stage_Design/assets/123030236/02b65d93-08e3-4665-86eb-057b9ed0bb7f)
+
+In the chilling opening scene, the audience is introduced to a somber graveyard, shrouded in the muted colors of an overcast sky. The camera pans over rows of weathered tombstones and ancient mausoleums, their inscriptions barely legible through the patina of time. The scene is eerily quiet, save for the occasional rustle of dead leaves and the distant caw of a solitary crow. This setting, rich in gothic atmosphere, immediately sets a foreboding tone, hinting at the darker themes that are to unravel as the story progresses.
+
+At the center of the frame, a man operates a large, industrial auger with a grim determination. His face is obscured by protective gear, but his body language speaks volumes; each movement is precise and methodical, suggesting a sense of urgency and perhaps even desperation. The auger's drill bites into the earth with a relentless, mechanical growl, scattering soil and debris. This juxtaposition of modern machinery against the timeless backdrop of the cemetery creates a stark, almost surreal contrast, underscoring the tension between life and death, tradition and technology.
+
+The camera lingers on the grave he is digging, a gaping maw in the earth that seems to beckon ominously. The freshly turned soil and the meticulous care with which the grave is being prepared suggest that this is no ordinary burial. There is an unsettling air of secrecy, as if the man is working against the clock, perhaps under the cover of impending darkness. His gloved hands grip the auger tightly, his breaths visible in the cold air, each exhalation a fleeting ghost in the somber landscape. The viewer is left to ponder who or what is destined for this freshly dug grave, their curiosity piqued by the meticulous, almost ritualistic preparation.
+
+As the scene progresses, subtle details begin to emerge. The man's attire, sturdy boots and workman's gloves, hints at a professional accustomed to manual labor, yet there is an incongruity in his presence here. Why is he alone, and what compels him to such a macabre task? The cemetery, usually a place of mourning and remembrance, is transformed into a stage for this mysterious activity. The opening scene, with its rich visual and auditory elements, establishes a gripping narrative hook, inviting the audience to delve deeper into the unfolding mystery, eager to uncover the secrets buried within this hallowed ground.
+
+<br>
+</details>
+
 #
 ### Related Links
 
