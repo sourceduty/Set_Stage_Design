@@ -40,7 +40,7 @@ Overall, the development, filming, set design, and stage design are interconnect
 <br>
 [Airborne Car Deployment](https://github.com/sourceduty/Airborne_Car_Deployment)
 <br>
-[Skydive Dirt Biking](https://github.com/sourceduty/Skydive_Dirt_Biking))
+[Skydive Dirt Biking](https://github.com/sourceduty/Skydive_Dirt_Biking)
 
 #
 
