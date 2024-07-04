@@ -149,6 +149,22 @@ This concept city is not just a place; it is a symbol of aspiration and human in
 <br>
 </details>
 
+<details><summary>Modern Floating Sphere Cottage</summary>
+<br>
+
+![Modern Floating Sphere Cottage](https://github.com/sourceduty/Set_Stage_Design/assets/123030236/e150aba9-83a0-4eea-bb07-024b7760ea91)
+
+This stunning concept movie location features a futuristic, spherical glass structure perched on stilts above tranquil ocean waters. The sphere's transparent design offers a 360-degree panoramic view, blending seamlessly with its marine surroundings. This high-tech, modern living space is both luxurious and cutting-edge, providing a unique blend of natural beauty and advanced architectural innovation. The structure's sleek, metallic supports add to the aesthetic, creating a striking contrast against the serene blue backdrop of the sea and sky.
+
+The spherical structure serves as the central setting for a high-stakes thriller, where the protagonist, a reclusive tech genius, lives and works. This isolated yet technologically advanced home becomes a key element in the story, symbolizing both the character's brilliance and his self-imposed exile. The open-plan interior, filled with state-of-the-art gadgets and minimalist furniture, reflects the character's meticulous and organized nature. The setting's isolation and transparency play into the narrative, heightening the tension and suspense as external threats begin to close in.
+
+Adjacent to the sphere is a sleek, luxury yacht, which adds another layer of sophistication and mobility to the location. This yacht serves as the protagonist's secondary mode of transportation and refuge, equipped with its own set of high-tech features and hidden compartments. The juxtaposition of the stationary, yet expansive sphere and the mobile, versatile yacht creates a dynamic setting for action sequences, chase scenes, and dramatic confrontations. The yacht's presence also introduces potential plot lines involving escape, pursuit, and exploration of the surrounding waters.
+
+The remote oceanic location itself becomes a character in the film, its calm and isolation starkly contrasting with the unfolding drama. The endless horizon, shifting weather, and reflective waters create an ever-changing backdrop that enhances the film's visual appeal and thematic depth. This setting allows for breathtaking cinematography, with scenes capturing sunrises, storms, and starry nights, each reflecting the protagonist's emotional journey. The isolation also amplifies the sense of vulnerability and tension, making every moment more intense as the protagonist navigates both personal and external challenges in this strikingly beautiful yet perilously isolated environment.
+
+<br>
+</details>
+
 #
 ### Related Links
 
