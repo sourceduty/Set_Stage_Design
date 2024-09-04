@@ -446,7 +446,7 @@ In this macabre tableau, every detail contributes to the narrative of unchecked 
 
 #
 
-![Airborne_Car_Deployment](https://github.com/sourceduty/Set_Stage_Design/assets/123030236/b818515d-29b3-401f-ba8f-3ad36668e278)
+![Goodfellas Desert Meme](https://github.com/user-attachments/assets/91c3f6c3-8596-4509-96cd-d784aa21b021)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
