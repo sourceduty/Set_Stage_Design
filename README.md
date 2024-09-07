@@ -452,5 +452,9 @@ In this macabre tableau, every detail contributes to the narrative of unchecked 
 
 ![Goodfellas Desert Meme](https://github.com/user-attachments/assets/91c3f6c3-8596-4509-96cd-d784aa21b021)
 
+#
+
+![Full Metal Jacket AI Joker](https://github.com/user-attachments/assets/1aba75fb-73ce-4fc0-8dad-029c7a7e6d08)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
