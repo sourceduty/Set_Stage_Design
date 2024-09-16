@@ -100,6 +100,10 @@ VII. Conclusion:
 </details>
 
 #
+
+![Wonka](https://github.com/user-attachments/assets/7dbb17d4-9d7a-4b83-a324-98220d6957d0)
+
+#
 ### Movie Set & Location Concepts
 
 <details><summary>Abandoned Old Underwater Graveyard</summary>
@@ -460,6 +464,12 @@ In this macabre tableau, every detail contributes to the narrative of unchecked 
 #
 
 ![Full Metal Jacket AI Joker](https://github.com/user-attachments/assets/1aba75fb-73ce-4fc0-8dad-029c7a7e6d08)
+
+#
+
+> Alex: "*I like to watch movies and I don't like to record videos or produce movies.*"
+
+"*Set and stage design for video and audio productions is not a serious focus of my work.*"
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
