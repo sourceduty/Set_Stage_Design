@@ -467,6 +467,10 @@ In this macabre tableau, every detail contributes to the narrative of unchecked 
 
 #
 
+![The Promotion - Richard Wehlner](https://github.com/user-attachments/assets/c65e93a9-6f7c-413f-bd46-8db24e153bcf)
+
+#
+
 > Alex: "*I like to watch movies and I don't like to record videos or produce movies.*"
 
 > "*Set and stage design for video and audio productions is not a serious focus of my work.*"
