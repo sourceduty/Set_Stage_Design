@@ -469,7 +469,7 @@ In this macabre tableau, every detail contributes to the narrative of unchecked 
 
 > Alex: "*I like to watch movies and I don't like to record videos or produce movies.*"
 
-"*Set and stage design for video and audio productions is not a serious focus of my work.*"
+> "*Set and stage design for video and audio productions is not a serious focus of my work.*"
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
