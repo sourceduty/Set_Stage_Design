@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/fb118fdb-0515-421e-b69c-1320999451db
+![Summer Snow Blower Truck](https://github.com/user-attachments/assets/3ce2e66e-6738-447c-a36d-2a6346e742db)
 
 > Movies, sets and entertainment stage design.
 
