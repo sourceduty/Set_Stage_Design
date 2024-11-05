@@ -405,11 +405,8 @@ In this macabre tableau, every detail contributes to the narrative of unchecked 
 </details>
 
 #
-
 ![The Shining](https://github.com/user-attachments/assets/71371eb7-d38d-4e49-990e-a85ce8662ee6)
-
 #
-
 ![Movie Developer](https://github.com/sourceduty/Set_Stage_Design/assets/123030236/cb676ef3-d50d-4ec8-89b5-9f54acb95ed3)
 
 #
@@ -458,19 +455,12 @@ In this macabre tableau, every detail contributes to the narrative of unchecked 
 [Movie Bookscript](https://github.com/sourceduty/Movie_Bookscript)
 
 #
-
 ![Wonka](https://github.com/user-attachments/assets/7dbb17d4-9d7a-4b83-a324-98220d6957d0)
-
 #
-
 ![Goodfellas Desert Meme](https://github.com/user-attachments/assets/91c3f6c3-8596-4509-96cd-d784aa21b021)
-
 #
-
 ![Full Metal Jacket AI Joker](https://github.com/user-attachments/assets/1aba75fb-73ce-4fc0-8dad-029c7a7e6d08)
-
 #
-
 ![The Promotion - Richard Wehlner](https://github.com/user-attachments/assets/c65e93a9-6f7c-413f-bd46-8db24e153bcf)
 
 #
@@ -478,8 +468,6 @@ In this macabre tableau, every detail contributes to the narrative of unchecked 
 > Alex: "*I like to watch movies and I don't like to record videos or produce movies.*"
 
 > "*Set and stage design for video and audio productions is not a serious focus of my work.*"
-
-> "*Someone please make an AI-inspired custom GPT movie with a retro setting.*"
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
